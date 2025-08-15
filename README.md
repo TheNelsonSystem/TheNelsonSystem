@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-[![Chess.com](https://img.shields.io/badge/Chess.com-Profile-blue?style=flat&logo=Chess)](https://www.chess.com/member/thenelsonsystem)
+[<img src="assets/icon/Chess-com.png" width="20"/> Chess.com Profile](https://www.chess.com/member/thenelsonsystem)
 
 <!--
 **TheNelsonSystem/TheNelsonSystem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
